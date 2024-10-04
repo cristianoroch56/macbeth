@@ -1,0 +1,16 @@
+{
+    "name": "macbeths/macbeth",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "MacBeth",
+            "email": "mrobinson@generateuk.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+		"psr-4": { "Macbeth\\": "./inc" }
+	}
+}
